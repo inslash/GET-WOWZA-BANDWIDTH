@@ -2,3 +2,5 @@ GET-WOWZA-BANDWIDTH
 ===================
 
 PHP SCRIPT TO GET WOWZA BANDWIDTH USAGE.
+
+TESTED ON Wowza Streaming Engine 4.0.
